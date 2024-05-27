@@ -1,0 +1,31 @@
+#kysymys {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 15px;
+
+}
+.vaihtoehdot {
+    background-color: lightblue;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 15px;
+}
+.vaihtoehdot:hover {
+    background-color: lightskyblue;
+}
+#nappi {
+    text-align: center;
+}
+#nappiUusi {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#nappiAlusta {
+    display: none;
+    margin: 1rem;
+    padding: 1rem;
+}
